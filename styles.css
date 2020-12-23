@@ -1,0 +1,19 @@
+* {
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 12pt;
+}
+
+ul {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.tab {
+    list-style-type: none;
+    font-size: 18pt;
+}
